@@ -9,6 +9,8 @@ namespace WpXmlRpc
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi,GitHub");
+            Console.ReadLine();
         }
     }
 }
