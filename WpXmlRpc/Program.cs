@@ -11,6 +11,7 @@ namespace WpXmlRpc
         {
             Console.WriteLine("Hi,GitHub");
             Console.ReadLine();
+            Console.Beep();
         }
     }
 }
